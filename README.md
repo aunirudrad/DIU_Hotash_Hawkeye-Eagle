@@ -1,2 +1,2 @@
 # DIU_Hotash_Hawkeye-Eagle
-The Hawkeye of Agriculture is an AI-powered device designed to detect crop diseases early and accurately. 
+The Hawkeye of Agriculture is an AI-powered device designed to detect crop diseases early and accurately. It addresses the significant challenges faced by farmers in traditional disease detection methods, which rely on manual visual inspections prone to errors, delays, and inaccuracies. The device utilizes advanced AI models to analyze crop images, enabling real-time disease detection and actionable insights for farmers.
