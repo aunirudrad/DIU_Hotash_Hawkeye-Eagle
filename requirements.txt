@@ -1,0 +1,10 @@
+streamlit
+tensorflow
+tensorflow-cpu
+tensorflow-hub
+tensorflow-addons
+Pillow
+numpy
+opencv-python-headless
+picamera
+requests
